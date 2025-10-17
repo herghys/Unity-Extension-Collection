@@ -1,0 +1,9 @@
+[submodule "CustomUI/Unity-Custom-Dropdown"]
+	path = CustomUI/Unity-Custom-Dropdown
+	url = https://github.com/herghys/Unity-Custom-Dropdown/
+[submodule "Utilities/Unity-2DExtension"]
+	path = Utilities/Unity-2DExtension
+	url = https://github.com/herghys/Unity-2DExtension
+[submodule "Utilities/Unity-LinqExtension"]
+	path = Utilities/Unity-LinqExtension
+	url = https://github.com/herghys/Unity-LinqExtension
